@@ -1,6 +1,5 @@
 
 // ChildFrm.cpp : implementation of the CChildFrame class
-//
 
 #include "stdafx.h"
 #include "MFCApplication3.h"
