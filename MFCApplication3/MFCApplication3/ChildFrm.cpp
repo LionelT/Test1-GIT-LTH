@@ -1,4 +1,4 @@
-
+// Modif effectuée sur PC Perso
 // ChildFrm.cpp : implementation of the CChildFrame class
 
 #include "stdafx.h"
