@@ -1,6 +1,8 @@
 
 // ChildFrm.h : interface of the CChildFrame class
 
+// Modif sur PC D2T
+
 #pragma once
 
 class CChildFrame : public CMDIChildWndEx
