@@ -1,3 +1,4 @@
+// Modif sur PC D2T
 
 #include "stdafx.h"
 #include "MainFrm.h"
